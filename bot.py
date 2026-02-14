@@ -9,7 +9,7 @@ import asyncio
 from datetime import datetime
 
 # ============ CONFIGURATION ============
-BOT_TOKEN = "MTMwMTE1MTU5MjcwNzUyNjY5OA.GhcFNU.oxT76xXnBkehGtUx_JBMb8esAesgykTSwKN-LU"
+BOT_TOKEN = "token herr"
 DATA_FILE = "voice_channels.json"
 # =======================================
 
